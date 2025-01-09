@@ -2,7 +2,7 @@
 
 ## Acknowledgments
 
-This project was created by the data set provided and with the guidance from [**Data Tutorial YouTube Channel**](https://www.youtube.com/results?search_query=DATA+TUTORIAL). Check out their content for more learning and insights.
+This project was created by the data set provided and with the guidance from [**Data Tutorial YouTube Channel**](http://surl.li/ppajho). Check out their content for more learning and insights.
 
 ## Overview
 
