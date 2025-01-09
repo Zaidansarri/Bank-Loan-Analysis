@@ -8,7 +8,7 @@ This project was created by the data set provided and with the guidance from [**
 
 The **Bank Loan Analysis Project** provides stakeholders with actionable insights into loan applications, approvals, and related metrics. This project uses **Power BI** for visualization and **SQL** for data manipulation to create an interactive report that helps in evaluating loan performance and decision-making.
 
-**Bank Loan Analysis**: [**Live Dashboard**](http://surl.li/nclhnf)
+**Bank Loan Analysis**: [**Live Dashboard**](http://surl.li/lnvtpi)
 
 ## Data Source
 
