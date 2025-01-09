@@ -1,5 +1,9 @@
 # Bank Loan Analysis Project
 
+## Acknowledgments
+
+This project was created by the data set provided and with the guidance from [**Data Tutorial YouTube Channel**](https://www.youtube.com/results?search_query=DATA+TUTORIAL). Check out their content for more learning and insights.
+
 ## Overview
 
 The **Bank Loan Analysis Project** provides stakeholders with actionable insights into loan applications, approvals, and related metrics. This project uses **Power BI** for visualization and **SQL** for data manipulation to create an interactive report that helps in evaluating loan performance and decision-making.
@@ -85,7 +89,3 @@ These validation steps ensured the data was accurate and reliable for decision-m
 ## Conclusion
 
 The **Bank Loan Analysis Project** provides valuable insights into the bank's lending activities through intuitive and interactive visualizations. By employing robust data validation techniques, this project ensures accurate and reliable analysis for informed strategic decisions.
-
-## Acknowledgments
-
-This project was created by the data set provided and with guidance from [**Data Tutorial YouTube Channel**](https://www.youtube.com/results?search_query=DATA+TUTORIAL). Check out their content for more learning and insights.
