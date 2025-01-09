@@ -88,4 +88,4 @@ The **Bank Loan Analysis Project** provides valuable insights into the bank's le
 
 ## Acknowledgments
 
-This project was created by the data set provided and with guidance from the [**Data Tutorial YouTube Channel**](https://www.youtube.com/results?search_query=DATA+TUTORIAL). Check out their content for more learning and insights.
+This project was created by the data set provided and with guidance from [**Data Tutorial YouTube Channel**](https://www.youtube.com/results?search_query=DATA+TUTORIAL). Check out their content for more learning and insights.
