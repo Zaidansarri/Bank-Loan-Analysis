@@ -1,14 +1,13 @@
 # Bank Loan Analysis Project
 
-## Acknowledgments
-
-This project was created by the data set provided and with the guidance from [**Data Tutorial YouTube Channel**](http://surl.li/ppajho). Check out their content for more learning and insights.
-
-## Overview
-
-The **Bank Loan Analysis Project** provides stakeholders with actionable insights into loan applications, approvals, and related metrics. This project uses **Power BI** for visualization and **SQL** for data manipulation to create an interactive report that helps in evaluating loan performance and decision-making.
+The Bank Loan Analysis Project provides stakeholders with actionable insights into loan applications, approvals, and related metrics. This project uses Power BI for visualization and SQL for data manipulation to create an interactive report that helps evaluate loan performance and make decisions.
 
 **Bank Loan Analysis**: [**Live Dashboard**](http://surl.li/lnvtpi)
+
+## Acknowledgments
+
+This project was created using the data set provided and with guidance from [**DATA TUTORIAL YOUTUBE CHANNEL**](http://surl.li/ppajho) Check out their content for more learning and insights.
+
 
 ## Data Source
 
